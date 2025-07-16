@@ -11,7 +11,7 @@ This repository contains two basic calculator implementations:
 
 ### 🐍 Python Calculator
 
-![Python Calculator](assets/python calculator.png)
+![Python Calculator](assets/html calculator.png)
 
 > A basic calculator built using Python’s Tkinter library. It supports:
 > - Addition, subtraction, multiplication, division
