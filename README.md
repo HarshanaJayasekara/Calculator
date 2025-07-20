@@ -31,6 +31,8 @@ This repository contains two basic calculator implementations:
 > - Dark-themed UI with hover/active effects
 
 ---
+### 🐍 Python Calculator 2nd test
+![Python Calculator 2nd test](assets/cal2.png)
 
 ## 📁 Project Structure
 
