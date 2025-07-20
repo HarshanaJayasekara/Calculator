@@ -34,5 +34,14 @@ This repository contains two basic calculator implementations:
 ### 🐍 Python Calculator 2nd test
 ![Python Calculator 2nd test](assets/cal2.png)
 
+## Features
+
+- ✅ Basic arithmetic operations: `+`, `-`, `*`, `/`
+- 🧹 Clear button to reset current input
+- 🎯 Responsive, real-time expression display
+- 🖱️ Clean button layout using absolute `place()` geometry
+- 🚫 Error handling for invalid expressions
+- 🖥️ Desktop-friendly design with no external dependencies
+
 ## 📁 Project Structure
 
