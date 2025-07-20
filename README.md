@@ -43,5 +43,8 @@ This repository contains two basic calculator implementations:
 - 🚫 Error handling for invalid expressions
 - 🖥️ Desktop-friendly design with no external dependencies
 
+### 🐍 Python Calculator 3rd test
+![Python Calculator 2nd test](assets/cal3.png)
+
 ## 📁 Project Structure
 
